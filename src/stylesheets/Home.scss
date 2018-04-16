@@ -65,7 +65,11 @@
       }
       .style3{}
       .style4{
+        position: relative;
+        width: 100%;
         .am-tabs{
+          position: relative;
+          width: 100%;
           .am-tabs-default-bar {
             background-color: #e9e9e9;
           }
